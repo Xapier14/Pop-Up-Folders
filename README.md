@@ -28,3 +28,9 @@ Windows Build: [Latest](https://github.com/Xapier14/Pop-Up-Folders/raw/master/Bu
 1. While holding both the shift key and the control key, double-click on the shortcut to open it.
 1. A dialog will appear asking if you want to delete the pop-up folder. Click on "yes" if you are sure you want to delete the folder.
 1. After clicking yes, the folder will be deleted and unregistered from the application. Delete the folder shortcut to finish deleting the folder.
+
+### Deleting an item inside the Pop-Up Folder
+1. Open the Pop-Up Folder.
+1. Hover your cursor on the item you want to delete.
+1. Double-right click the item to delete it.
+1. The item will now be removed from the list and the actual folder directry.
