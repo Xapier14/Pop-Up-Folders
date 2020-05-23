@@ -5,7 +5,7 @@
 A program to aid in desktop personalization. Create folders that pop-up containing shortcuts and files.
 
 ## Downloads
-Windows Build: [Windows](Builds\Pop-Up_Folders-)
+Windows Build: [Windows](https://github.com/Xapier14/Pop-Up-Folders/raw/master/Builds/Pop-Up_Folders-5-23-2020.zip)
 
 ## Usage
 ### Creating a folder
