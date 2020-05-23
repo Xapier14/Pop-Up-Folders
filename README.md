@@ -1,6 +1,6 @@
 # Pop-Up-Folders
 
-![Screenshot](Screenshots\Screen1.png)
+![Screenshot](Screenshots/Screen1.png)
 
 A program to aid in desktop personalization. Create folders that pop-up containing shortcuts and files.
 
