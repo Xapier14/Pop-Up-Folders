@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29519.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pop-Up Folders", "Pop-Up Folders.csproj", "{854E8C91-B91D-4560-9642-1577F8CA2903}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{854E8C91-B91D-4560-9642-1577F8CA2903}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{854E8C91-B91D-4560-9642-1577F8CA2903}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{854E8C91-B91D-4560-9642-1577F8CA2903}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{854E8C91-B91D-4560-9642-1577F8CA2903}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1DAFE9E6-6A95-41BB-AFAA-A142576EABD0}
+	EndGlobalSection
+EndGlobal
