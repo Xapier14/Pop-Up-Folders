@@ -10,7 +10,7 @@ Windows Build: [Latest](https://github.com/Xapier14/Pop-Up-Folders/raw/master/Bu
 ## Usage
 ### Creating a folder
 1. Open the Pop-Up Folders application. This will open up the settings window for the app.
-1. Drag the icons you want to have in the folder to the gray panel labeled: "Folder Contents:".
+1. Drag the icons you want to have in the folder into the gray panel labeled: "Folder Contents:".
 1. Enter a 'Call Name'. The call name is the identifier for the folder that you are about to create. It must be unique and should have no spaces.
 1. Enter the display name for the folder. This is the actual name displayed when opening the folder. It is also the default name for the folder shortcut unless changed.
 1. Click on 'Make Folder' to create the folder shortcut. A save file dialog with open asking where you want to save the shortcut file.
@@ -33,4 +33,4 @@ Windows Build: [Latest](https://github.com/Xapier14/Pop-Up-Folders/raw/master/Bu
 1. Open the Pop-Up Folder.
 1. Hover your cursor on the item you want to delete.
 1. Double-right click the item to delete it.
-1. The item will now be removed from the list and the actual folder directry.
+1. The item will now be removed from the list and the actual folder directory.
