@@ -13,7 +13,7 @@ Windows Build: [Latest](https://github.com/Xapier14/Pop-Up-Folders/raw/master/Bu
 1. Drag the icons you want to have in the folder into the gray panel labeled: "Folder Contents:".
 1. Enter a 'Call Name'. The call name is the identifier for the folder that you are about to create. It must be unique and should have no spaces.
 1. Enter the display name for the folder. This is the actual name displayed when opening the folder. It is also the default name for the folder shortcut unless changed.
-1. Click on 'Make Folder' to create the folder shortcut. A save file dialog with open asking where you want to save the shortcut file.
+1. Click on 'Make Folder' to create the folder shortcut. A save file dialog will open asking where you want to save the shortcut file.
 1. The folder is now created and is registered on the application.
 
 ### Opening a folder in an explorer window
